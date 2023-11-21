@@ -19,6 +19,8 @@ exercises: 2
 
 ## Introduction
 
+Add what you need Kike y Karen
+
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
 [R Markdown][r-markdown] for dynamic files that can render code into output. 
